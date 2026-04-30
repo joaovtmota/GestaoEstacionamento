@@ -1,0 +1,18 @@
+C:\Users\ead_dev\Documents\João_Victor\ControleAcesso\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ead_dev\Documents\João_Victor\ControleAcesso\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.AssemblyInfoInputs.cache
+C:\Users\ead_dev\Documents\João_Victor\ControleAcesso\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.AssemblyInfo.cs
+C:\Users\ead_dev\Documents\João_Victor\ControleAcesso\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\bin\Debug\net9.0\ExercicioVeiculo.exe
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\bin\Debug\net9.0\ExercicioVeiculo.deps.json
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\bin\Debug\net9.0\ExercicioVeiculo.runtimeconfig.json
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\bin\Debug\net9.0\ExercicioVeiculo.dll
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\bin\Debug\net9.0\ExercicioVeiculo.pdb
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.AssemblyInfoInputs.cache
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.AssemblyInfo.cs
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.dll
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\refint\ExercicioVeiculo.dll
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.pdb
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ExercicioVeiculo.genruntimeconfig.cache
+C:\Users\Joao\OneDrive - SESISENAISP - Escolas\Documentos\João_Victor\ExercicioVeiculo\obj\Debug\net9.0\ref\ExercicioVeiculo.dll
